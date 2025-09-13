@@ -11,6 +11,11 @@ This little tool simply **shows the current sim rate**, so you can have a smooth
 1. Download from release  
 2. Run it after or before MSFS, doesn’t matter  
 
+## ScreenShot
+<img width="1120" height="928" alt="封面1" src="https://github.com/user-attachments/assets/e1c3604c-c8f2-4b31-8bb4-9833a536e70e" />
+<img width="1676" height="1080" alt="overlay" src="https://github.com/user-attachments/assets/0a6b0add-ffbd-495d-aa81-fbeef9cee079" />
+<img width="322" height="262" alt="image" src="https://github.com/user-attachments/assets/377ff497-208c-499d-b938-deb43dffa1bf" />
+
 
 ## What this tool does
 - Watching sim rate  

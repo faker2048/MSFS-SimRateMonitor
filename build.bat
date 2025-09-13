@@ -1,0 +1,1 @@
+pyinstaller -F -w -n MSFS-SimRate-Monitor -i .\mini_gui_icon.ico --add-data "mini_gui_icon.ico;."  --add-data "SimConnect;SimConnect" .\mini_gui.py
